@@ -36,10 +36,10 @@ Thumbs.db
 data/
 
 # Model checkpoints and large binaries
-# models/*.pth
-# models/*.pt
-# models/*.bin
-# *.safetensors
+models/*.pth
+models/*.pt
+models/*.bin
+*.safetensors
 
 # Output directories
 output/
