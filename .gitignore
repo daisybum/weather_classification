@@ -25,7 +25,7 @@ htmlcov/
 .ipynb_checkpoints/
 
 # VS Code / IDE configs
-# .vscode/
+.vscode/
 .idea/
 
 # OS generated files
