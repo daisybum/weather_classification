@@ -1,0 +1,51 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Logs, debug files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# data
+data/
+
+# Model checkpoints and large binaries
+# models/*.pth
+# models/*.pt
+# models/*.bin
+# *.safetensors
+
+# Output directories
+output/
+
+# Dataset cache (optional)
+*.tar
+*.zip
+*.gz
+*.npz
